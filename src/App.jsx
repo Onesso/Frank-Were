@@ -62,7 +62,7 @@ export default function App() {
         <div className="content-section col">
           <div className="profile-Image">
             <img
-              src="https://photos.google.com/photo/AF1QipMQgDcbOS38HFRuJZ8gs97pd_itTKKT5SyGgl52"
+              src="https://waynegakuo.netlify.app/assets/img/wayne.png"
               className="profileImage"
             />
             <div className="bio-text">
@@ -187,6 +187,9 @@ export default function App() {
                 </i>
               </div>
             </div>
+          </div>
+          <div className="tech-stack">
+            <h2 className="h2">Tech-stack</h2>
           </div>
         </div>
       </div>
