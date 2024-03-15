@@ -60,7 +60,7 @@ export default function App() {
         </div>
         <div className="content-section col">
           <div className="profile-Image">
-            <img src="../images/image.png" className="profileImage" />
+            <img src="./images/image.png" className="profileImage" />
             <div className="bio-text">
               <h2 className="h2">About Me</h2>
               <span className="span"></span>
