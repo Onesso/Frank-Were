@@ -58,9 +58,13 @@ export default function App() {
         <div className="toggle-div">
           <Toggle isChecked={isDark} handleChange={() => setIsDark(!isDark)} />
         </div>
+
         <div className="content-section col">
           <div className="profile-Image">
-            <img src="./images/image.png" className="profileImage" />
+            <img
+              src="https://photos.google.com/photo/AF1QipMQgDcbOS38HFRuJZ8gs97pd_itTKKT5SyGgl52"
+              className="profileImage"
+            />
             <div className="bio-text">
               <h2 className="h2">About Me</h2>
               <span className="span"></span>
